@@ -12,6 +12,7 @@ From API 11 (Android 3.0 Honeycomb) the existing API to do this was deprecated a
 		|
 		+-- Example App: one application that uses the Lib, works on all the Android tested versions mention bellow
 
+Note: *For now the Exemple App needs appcompat_v7 from Support libs.*
 
 # To use
 - Export the library as **JAR**;
