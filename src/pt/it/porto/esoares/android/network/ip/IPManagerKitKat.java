@@ -12,7 +12,7 @@ import java.net.InetAddress;
 import java.util.ArrayList;
 import java.util.List;
 
-public class IPManagerKitKat implements IPManager {
+class IPManagerKitKat implements IPManager {
     private Context context;
     private WifiManager wifiManager;
 
