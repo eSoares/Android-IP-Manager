@@ -5,6 +5,15 @@ A library to manage Network IP, Mask, Default Gateway and DNS Server on Android.
 
 From API 11 (Android 3.0 Honeycomb) the existing API to do this was deprecated and stopped working.
 
+# Repo Structure
+
+		.
+		+-- Lib: the library
+		|
+		+-- Example App: one application that uses the Lib, works on all the Android tested versions mention bellow
+
+Note: *For now the Exemple App needs appcompat_v7 from Support libs.*
+
 # To use
 - Export the library as **JAR**;
 - Declare in the manifest the following permissions:

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IP Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_mask">Set Mask</string>
+    <string name="set_ip">Set IP</string>
+    <string name="set_dns">Set DNS</string>
+    <string name="set_gateway">Set Gateway</string>
+    <string name="get_mask">Get Mask</string>
+    <string name="get_ip">Get IP</string>
+    <string name="get_dns">Get DNS</string>
+    <string name="get_gateway">Get Gateway</string>
+
+</resources>
