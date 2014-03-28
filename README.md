@@ -16,3 +16,8 @@ From API 11 (Android 3.0 Honeycomb) the existing API to do this was deprecated a
 		<uses-permission android:name="android.permission.WRITE_SETTINGS" />
 
 - Use the `IPManagerFactory.getIPManager(Context context)` to get a `IPManager`;
+
+# Tested on
+- Android 2.3
+- Android 4.2.2
+- Android 4.4.2
