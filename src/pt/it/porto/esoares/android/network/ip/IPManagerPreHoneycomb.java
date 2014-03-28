@@ -9,7 +9,7 @@ import android.provider.Settings;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public class IPManagerPreHoneycomb implements IPManager {
+class IPManagerPreHoneycomb implements IPManager {
     final Context context;
 
     IPManagerPreHoneycomb(Context context) {
