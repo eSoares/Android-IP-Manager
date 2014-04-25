@@ -28,5 +28,6 @@ Note: *For now the Exemple App needs appcompat_v7 from Support libs.*
 
 # Tested on
 - Android 2.3
+- Android 4.1.2
 - Android 4.2.2
 - Android 4.4.2
