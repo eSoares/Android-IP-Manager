@@ -1,5 +1,5 @@
 ###Android###
- 
+
 # built application files
 *.apk
 *.ap_
@@ -22,7 +22,7 @@ local.properties
 .settings/
 
 ###Java###
- 
+
 *.class
 
 # Package Files #
@@ -30,4 +30,7 @@ local.properties
 *.war
 *.ear
 
-
+# Gradle files
+.gradle/
+build/
+/*/build/
