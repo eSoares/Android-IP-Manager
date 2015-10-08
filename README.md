@@ -31,3 +31,7 @@ Note: *For now the Exemple App needs appcompat_v7 from Support libs.*
 - Android 4.1.2
 - Android 4.2.2
 - Android 4.4.2
+
+# License
+
+This project is license under GNU General Public License v2.0 and the full license can be found at [here](LICENSE).
