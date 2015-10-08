@@ -21,6 +21,7 @@ Note: *For now the Exemple App needs appcompat_v7 from Support libs.*
 		<!-- Necessary for Android after gingerbread < -->
 		<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> 
 		<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+		<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
 		<!-- Necessary for Android pre Honeycomb -->
 		<uses-permission android:name="android.permission.WRITE_SETTINGS" />
 
